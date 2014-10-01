@@ -1,6 +1,6 @@
 {
   "name": "hubot-capital-city",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display a random capital city",
   "main": "index.js",
   "scripts": {
